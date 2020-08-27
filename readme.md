@@ -1,7 +1,10 @@
 # 该项目效果 
 ![](D:\Documents\Desktop\桌面图片\fishg.gif)
 
+![](D:\Documents\Desktop\桌面图片\思否图片\QQ截图20200827185055.png)
+
 # 核心算法
+
 ```
 function movbulb(){
 //扩展this的作用域链
