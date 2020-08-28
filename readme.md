@@ -1,7 +1,5 @@
 # 该项目效果 
-![](D:\Documents\Desktop\桌面图片\fishg.gif)
-
-![](D:\Documents\Desktop\桌面图片\思否图片\QQ截图20200827185055.png)
+![项目效果](https://img-blog.csdnimg.cn/20200828110205516.gif#pic_center)
 
 # 核心算法
 
